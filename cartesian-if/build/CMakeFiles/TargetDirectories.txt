@@ -1,0 +1,2 @@
+/home/koloumpras/Development/VVV14/YARP-Tutorial/Teaching/code/cartesian-if/src/build/CMakeFiles/cartesian-if.dir
+/home/koloumpras/Development/VVV14/YARP-Tutorial/Teaching/code/cartesian-if/src/build/CMakeFiles/uninstall.dir
